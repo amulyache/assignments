@@ -1,2 +1,2 @@
 # assignments
-assignments and exercises of AI course
+aAssignments and exercises of AI course
